@@ -1,0 +1,29 @@
+{
+    "001": {
+        "age": 20,
+        "bmi": 19,
+        "city": "nadiad",
+        "height": 175,
+        "name": "kushal",
+        "number": 6354891128,
+        "weight": 75
+    },
+    "002": {
+        "age": 30,
+        "bmi": 19.5,
+        "city": "anand",
+        "height": 177,
+        "name": "ramu",
+        "number": 6356891128,
+        "weight": 78
+    },
+    "003": {
+        "age": 22,
+        "bmi": 19,
+        "city": "ahmedabad",
+        "height": 190,
+        "name": "hema",
+        "number": 6355861128,
+        "weight": 765
+    }
+}
